@@ -4,7 +4,7 @@
 
 Code associated with our paper introducing a device to measure samara terminal velocity based on a Raspberry Pi.  If using this code, please cite the paper as follows:
 
-Wyse, S.V., Hulme, P.E., & Holland, E.P. (2019) Partitioning intraspecific variaton in seed dispersal potential using a low-cost method for rapid estimation of samara terminal velocity. *Methods in Ecology and Evolution.* https://doi.org/10.1111/2041-1210X.13202
+Wyse, S.V., Hulme, P.E., & Holland, E.P. (2019) Partitioning intraspecific variaton in seed dispersal potential using a low-cost method for rapid estimation of samara terminal velocity. *Methods in Ecology and Evolution.* https://doi.org/10.1111/2041-210X.13202
 
 This repository contains the following scripts:
 
